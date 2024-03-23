@@ -1,0 +1,47 @@
+order,name,last_name,term_begin_year,term_end_year,political_party,vice_president
+1,George Washington,Washington,1789,1797,Unaffiliated,John Adams
+2,John Adams,Adams,1797,1801,Federalist,Thomas Jefferson
+3,Thomas Jefferson,Jefferson,1801,1809,Democratic-Republican,"Aaron Burr, George Clinton"
+4,James Madison,Madison,1809,1817,Democratic-Republican,"George Clinton, Elbridge Gerry"
+5,James Monroe,Monroe,1817,1825,Democratic-Republican,Daniel D. Tompkins
+6,John Quincy Adams,Adams,1825,1829,Democratic-Republican,John C. Calhoun
+7,Andrew Jackson,Jackson,1829,1837,Democrat,"John C. Calhoun, Martin Van Buren"
+8,Martin Van Buren,Van Buren,1837,1841,Democrat,Richard Mentor Johnson
+9,William Henry Harrison,Harrison,1841,1841,Whig,John Tyler
+10,John Tyler,Tyler,1841,1845,Whig,VACANT
+11,James Knox Polk,Polk,1845,1849,Democrat,George M. Dallas
+12,Zachary Taylor,Taylor,1849,1850,Whig,Millard Fillmore
+13,Millard Fillmore,Fillmore,1850,1853,Whig,VACANT 
+14,Franklin Pierce,Pierce,1853,1857,Democrat,William R. King
+15,James Buchanan,Buchanan,1857,1861,Democrat,John C. Breckinridge
+16,Abraham Lincoln,Lincoln,1861,1865,Republican,"Hannibal Hamlin, Andrew Johnson"
+17,Andrew Johnson,Johnson,1865,1869,National Union,VACANT
+18,Ulysses Simpson Grant,Grant,1869,1877,Republican,"Schuyler Colfax, Henry Wilson"
+19,Rutherford Birchard Hayes,Hayes,1877,1881,Republican,William A. Wheeler
+20,James Abram Garfield,Garfield,1881,1881,Republican,Chester A. Arthur
+21,Chester Alan Arthur,Arthur,1881,1885,Republican,VACANT
+22,Stephen Grover Cleveland,Cleveland,1885,1889,Democrat,Thomas A. Hendricks
+23,Benjamin Harrison,Harrison,1889,1893,Republican,Levi P. Morton
+24,Stephen Grover Cleveland,Cleveland,1893,1897,Democrat,Adlai Stevenson I
+25,William McKinley,McKinley,1897,1901,Republican,"Garret Hobart, Theodore Roosevelt"
+26,Theodore Roosevelt,Roosevelt,1901,1909,Republican,Charles W. Fairbanks
+27,William Howard Taft,Taft,1909,1913,Republican,James S. Sherman
+28,Thomas Woodrow Wilson,Wilson,1913,1921,Democrat,Thomas R. Marshall
+29,Warren Gamal Harding,Harding,1921,1923,Republican,Calvin Coolidge
+30,John Calvin Coolidge,Coolidge,1923,1929,Republican,Charles G. Dawes
+31,Herbert Clark Hoover,Hoover,1929,1933,Republican,Charles Curtis
+32,Franklin Delano Roosevelt,Roosevelt,1933,1945,Democrat,"John Nance Garner, Henry A. Wallace, Harry S. Truman"
+33,Harry S Truman,Truman,1945,1953,Democrat,Alben W. Barkley
+34,Dwight David Eisenhower,Eisenhower,1953,1961,Republican,Richard Nixon
+35,John Fitzgerald Kennedy,Kennedy,1961,1963,Democrat,Lyndon B. Johnson
+36,Lyndon Baines Johnson,Johnson,1963,1969,Democrat,Hubert Humphrey
+37,Richard Milhous Nixon,Nixon,1969,1974,Republican,"Spiro Agnew, Gerald Ford"
+38,Gerald Rudolph Ford,Ford,1974,1977,Republican,Nelson Rockefeller
+39,James Earl Carter,Carter,1977,1981,Democrat,Walter Mondale
+40,Ronald Wilson Reagan,Reagan,1981,1989,Republican,George H. W. Bush
+41,George Herbert Walker Bush,Bush,1989,1993,Republican,Dan Quayle
+42,William Jefferson Clinton,Clinton,1993,2001,Democrat,Al Gore
+43,George Walker Bush,Bush,2001,2009,Republican,Dick Cheney
+44,Barack Hussein Obama,Obama,2009,2017,Democrat,Joe Biden
+45,Donald John Trump,Trump,2017,2021,Republican,Mike Pence
+46,Joseph Robinette Biden,Biden,2021,,Democrat,Kamala Harris
